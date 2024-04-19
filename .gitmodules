@@ -1,0 +1,3 @@
+[submodule "hanzlika/PubChem-Bioassays-Promiscuity"]
+	path = hanzlika/PubChem-Bioassays-Promiscuity
+	url = git@github.com:hanzlika/PubChem-Bioassays-Promiscuity.git
